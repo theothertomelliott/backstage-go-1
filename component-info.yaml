@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Go Test Microservice
+  description: Testing component creation
+  annotations: 
+    github.com/project-slug: theothertomelliott/backstage-go-1
+    backstage.io/github-actions-id: theothertomelliott/backstage-go-1
+spec:
+  type: service
+  lifecycle: experimental
+  owner: theothertomelliott
