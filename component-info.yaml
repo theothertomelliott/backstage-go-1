@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: Go Test Microservice
+  name: go-test-micro
   description: Testing component creation
   annotations: 
     github.com/project-slug: theothertomelliott/backstage-go-1
